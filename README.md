@@ -6,6 +6,7 @@ In this project, the task is to categorize particles as either gamma (signal) or
 **Data Sources:**
 
 - [Magic Gamma Dataset]("https://raw.githubusercontent.com/tyrantdavis/datasets/refs/heads/main/telescope.csv")
+- [Original Dataset](http://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope.)
 
 ## Project Goals
 The initial objective is to carry out PCA in order to generate a fresh set of features, focusing on selecting those that hold the most valuable information. The final objective is to statistically differentiate between images produced by primary gamma rays, which are classified as the signal (class label g), and those depicting hadronic showers triggered by cosmic rays in the upper atmosphere, categorized as the background (class label h). 
