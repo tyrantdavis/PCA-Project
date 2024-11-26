@@ -33,5 +33,11 @@ A dataset that can be used to train the machine-learning model has been found. I
 TBD...
 
 1. How many features does the PCA recommend as optimal?
+    - **Number of Principal Components Features: 2**
+
 
 2. When comparing the two SVG models, one utilizing PCA features and the other based on the original data features, which of the two demonstrates a greater accuracy score?
+
+
+   - **The score for the model with 2 PCA features: 74% performed the best**
+   - The score for the model with 2 original features: 71%
