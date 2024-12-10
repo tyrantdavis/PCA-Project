@@ -1,5 +1,7 @@
 # Magic Gamma - Principal Component Analysis
 
+## [Demo](https://nbviewer.org/github/tyrantdavis/PCA-Project/blob/main/telescope-pca.ipynb)
+
 ## Scenario
 In this project, the task is to categorize particles as either gamma (signal) or hadrons (background). Since the features are multi-colinear, Principal Component Analysis (PCA) will be utilized  to derive a new set of features and identify those that hold the most significant information. The dataset used for this analysis was produced by a Monte Carlo simulation program called Corsika, as detailed in the work by D. Heck et al., titled "CORSIKA, A Monte Carlo code to simulate extensive air showers," published by Forschungszentrum Karlsruhe FZKA 6019 in 1998.
 
